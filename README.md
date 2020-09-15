@@ -7,6 +7,4 @@
 [+] pkg update 
 
 [+] pkg upgrade 
-
-<\pre>
-
+</pre>
